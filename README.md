@@ -1,16 +1,19 @@
-# Frank Lin
-> Over 15 years in the Electronics Industry, including analog, digital, firmware, software applications.
-
-### Huawei Technologies: RF Engineer
-### National Instruments: Staff Analog Engineer
-### General Electric: Lead Electrical Engineer
-### Sensear: Principal Electronics Engineer
-### Hitachi：Senior System Validation Engineer
-### Fortescue: Seninor Electronics Engineer
-
+## Frank Lin
 
 > Over 6 years in academic research, including speech digital signal processing algorithms, machine learning projects.
-### Curtin University, Australia: PhD and teaching staff.
-### National University of Singapore: Research Fellow, Project Manager of multi-million machine learning project. 
-### First author publications in Top Journals (TASLP) and conferences (ICASSP, Interspeech).
+[x] Curtin University, Australia: PhD and teaching staff.
+[x] National University of Singapore: Research Fellow, Project Manager of multi-million machine learning project. 
+[x] First author publications in Top Journals (TASLP) and conferences (ICASSP, Interspeech).
+
+> Over 15 years in the Electronics Industry, including analog, digital, firmware, software applications.
+
+[x] Huawei Technologies: RF Engineer
+[x] National Instruments: Staff Analog Engineer
+[x] General Electric: Lead Electrical Engineer
+[x] Sensear: Principal Electronics Engineer
+[x] Hitachi：Senior System Validation Engineer
+[x] Fortescue: Seninor Electronics Engineer
+
+
+
 
